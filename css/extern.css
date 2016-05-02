@@ -1,0 +1,4869 @@
+@CHARSET "UTF-8";
+
+#extern_mode .rl{
+	position: relative;
+	left: 466px;
+	top: 3px;
+}
+
+#extern_mode .rl a{
+	font-weight: bold;
+	color: #000079;
+	text-decoration: underline;
+}
+
+#extern_mode .rl a:hover{
+	color: #cc6600;
+}
+
+#extern_mode .ti{
+	color: #000079;
+	text-decoration: underline;
+}
+
+#extern_mode .ti:hover{
+	color: #cc6600;
+	text-decoration: underline;
+}
+
+#extern_mode .rafi {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank1.png) no-repeat;
+	display: block;
+}
+
+#extern_mode .rase {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank2.png) no-repeat;
+	display: block;
+}
+
+#extern_mode .rath {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank3.png) no-repeat;
+	display: block;
+}
+
+#extern_mode .rafo {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank4.png) no-repeat;
+	display: block;
+}
+
+#extern_mode .rafv {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank5.png) no-repeat;
+	display: block;
+}
+
+#extern_mode .rasi {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank6.png) no-repeat;
+	display: block;
+}
+
+#extern_mode .rasv {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank7.png) no-repeat;
+	display: block;
+}
+
+#extern_mode .raei {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank8.png) no-repeat;
+	display: block;
+}
+
+#extern_mode .rani {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank9.png) no-repeat;
+	display: block;
+}
+
+#extern_mode .rate {
+	padding: 2px 5px 6px 30px;
+	margin: 5px 0 0 3px;
+	background: url(../img/ranking/rank10.png) no-repeat;
+	display: block;
+}
+
+#extern_king_top{
+	margin: 0;
+	padding: 0;
+}
+
+#extern_king_top table{
+	width: 650px;
+	height: 140px;
+	border-collapse: collapse;
+	border-top: 1px solid #cccccc;
+	border-left: 1px solid #cccccc;
+}
+
+#extern_king_top table tr {
+	height: 30px;
+}
+
+#extern_king_top table tr.bd {
+	background: #f7f7f7;
+}
+
+#extern_king_top table th {
+	background: url(../img/lino.gif) repeat-x;
+}
+
+#extern_king_top table th,#extern_king_top table td {
+	border-bottom: 1px solid #cccccc;
+	border-right: 1px solid #cccccc;
+	text-align: center;
+}
+
+#extern_king_list{
+	margin: 0;
+	padding: 0;
+}
+
+#extern_king_list table{
+	width: 650px;
+	border-collapse: collapse;
+	border-top: 1px solid #cccccc;
+	border-left: 1px solid #cccccc;
+}
+
+#extern_king_list table tr {
+	height: 30px;
+}
+
+#extern_king_list table tr.bd {
+	background: #f7f7f7;
+}
+
+#extern_king_list table td .im{
+	padding: 2px 0 5px 5px;
+}
+
+#extern_king_list table td img{
+	height: 50px;
+}
+
+#extern_king_list table th {
+	background: url(../img/lino.gif) repeat-x;
+}
+
+#extern_king_list table th,#extern_king_list table td {
+	border-bottom: 1px solid #cccccc;
+	border-right: 1px solid #cccccc;
+	text-align: center;
+}
+
+@CHARSET "UTF-8";
+
+#new_blog_parts_300{
+	margin: 0;
+	padding: 0;
+}
+
+#new_blog_parts_300 #blog_parts_backgrount2{
+	background: url(../img/blog/background_2.png) repeat;
+	display: block;
+	width: 300px;
+	height: 400px;
+}
+
+#new_blog_parts_300 #blog_parts_backgrount3{
+	background: url(../img/blog/background_3.png) repeat;
+	display: block;
+	width: 300px;
+	height: 400px;
+}
+
+#new_blog_parts_300 #blog_parts_backgrount4{
+	background: url(../img/blog/background_4.png) repeat;
+	display: block;
+	width: 300px;
+	height: 400px;
+}
+
+#new_blog_parts_300 #blog_parts_backgrount5{
+	background: url(../img/blog/background_5.png) repeat;
+	display: block;
+	width: 300px;
+	height: 400px;
+}
+
+#new_blog_parts_300 #blog_parts_backgrount6{
+	background: url(../img/blog/background_6.png) repeat;
+	display: block;
+	width: 300px;
+	height: 400px;
+}
+
+#new_blog_parts_300 #blog_parts_backgrount7{
+	background: url(../img/blog/background_7.png) repeat;
+	display: block;
+	width: 300px;
+	height: 400px;
+}
+
+#new_blog_parts_300 #back_ground{
+	background: url(../img/blog/background_300.png) no-repeat;
+	display: block;
+	width: 300px;
+	height: 400px;
+}
+
+#new_blog_parts_300  #back_ground #trade_ranking{
+	background: url(../img/blog/title_trader.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts_300 #back_ground #system_ranking{
+	background: url(../img/blog/title_systemtrade.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts_300 #back_ground #system_ranking_earning_rate{
+	background: url(../img/blog/title_systemtrade_earning_rate.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts_300 #back_ground #bloger_ranking{
+	background: url(../img/blog/title_minna_blog.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts_300  #back_ground #account_ranking{
+	background: url(../img/blog/title_account.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts_300  #back_ground #account_ranking_pickup{
+	background: url(../img/blog/title_minna_notice.png) no-repeat;
+	width: 115px;
+	height: 13px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+	margin: 0 0 2px 0;
+}
+
+#new_blog_parts_300  #back_ground #account_ranking_excellence{
+	background: url(../img/blog/title_minna_excellence.png) no-repeat;
+	width: 115px;
+	height: 13px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+	margin: 0 0 2px 0;
+}
+
+#new_blog_parts_300 #container1{
+	background: url(../img/blog/container_1_200.png) no-repeat;
+	display: block;
+	width: 300px;
+	height: 42px;
+	clear:both;
+	position: relative;
+	top: 8px;
+	left: 8px;
+}
+
+#new_blog_parts_300 #container1 .upper{
+	display: block;
+	width: 180px;
+	height: 19px;
+}
+
+#new_blog_parts_300 #container1 .upper .upl{
+	width: 60px;
+	height: 18px;
+	color: #141414;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts_300 #container1 .upper .upl_nothing{
+	width: 85px;
+	height: 18px;
+	float: left;
+	color: #141414;
+	position: relative;
+	top: 6px;
+	left: 6px;
+	text-align: left;
+	white-space: nowrap;
+}
+
+#new_blog_parts_300 #container1 .upper .upl_nothing .pfm{
+	font-size: 14px;
+	font-weight: bold;
+	color: #ff1493;
+	margin: 0 2px 0 0;
+}
+
+#new_blog_parts_300 #container1 .upper .upl_nothing .pfc{
+	font-size: 14px;
+	font-weight: bold;
+	color: #1e90ff;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts_300 #container1 .upper .upl_nothing .pfb{
+	font-size: 14px;
+	font-weight: bold;
+	color: #545454;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts_300 #container1 .upper .upr{
+	width: 110px;
+	height: 18px;
+	float: right;
+	color: #141414;
+	position: relative;
+	top: 6px;
+	left: -2px;
+	text-align: right;
+	white-space: nowrap;
+}
+
+#new_blog_parts_300 #container1 .upper .upr .pfm{
+	font-size: 14px;
+	font-weight: bold;
+	color: #ff1493;
+	margin: 0 2px 0 0;
+}
+
+#new_blog_parts_300 #container1 .upper .upr .pfc{
+	font-size: 14px;
+	font-weight: bold;
+	color: #1e90ff;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts_300 #container1 .upper .upr .pfb{
+	font-size: 14px;
+	font-weight: bold;
+	color: #545454;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts_300 #container1 .lower{
+	display: block;
+	width: 180px;
+	height: 17px;
+}
+
+#new_blog_parts_300 #container1 .lower .lol{
+	white-space: nowrap;
+	width: 90px;
+	height: 18px;
+	color: #141414;
+	font-size: 11px;
+	float: left;
+	position: relative;
+	top:3px;
+	left: 8px;
+}
+
+#new_blog_parts_300 .lor{
+	width: 20px;
+	height: 10px;
+	float:right;
+	position: relative;
+	top: 8px;
+	right: 2px;
+}
+
+#new_blog_parts_300 .lor a{
+	background: url(../img/blog/up_change_detail.png) no-repeat;
+	background-position: left top;
+	width: 20px;
+	height: 10px;
+	float:right;
+}
+
+#new_blog_parts_300 .lor a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts_300 #container2{
+	background: url(../img/blog/container_2_200.png) no-repeat;
+	display: block;
+	width: 300px;
+	height: 280px;
+	position: relative;
+	top: 3px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts_300 #container2_0{
+	background: url(../img/blog/container_9_200.png) no-repeat;
+	display: block;
+	width: 300px;
+	height: 280px;
+	position: relative;
+	top: 3px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts_300 #container2_1{
+	background: url(../img/blog/container_8b_200.png) no-repeat;
+	display: block;
+	width: 300px;
+	height: 280px;
+	position: relative;
+	top: 3px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts_300 #container5-2{
+	background: url(../img/blog/container_5_200.png) no-repeat;
+	display: block;
+	width: 300px;
+	height: 280px;
+	position: relative;
+	top: 3px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts_300 #container5-2{
+	background: url(../img/blog/container_5_300.png) no-repeat;
+	display: block;
+	width: 300px;
+	height: 319px;
+	position: relative;
+	top: -7px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts_300 .selector{
+	display: block;
+	width: 170px;
+	height: 23px;
+	position: relative;
+	top: 16px;
+	left: 12px;
+}
+
+#new_blog_parts_300 .collect_month{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:122px;
+	top:3px;
+}
+
+#new_blog_parts_300 .collect_month a{
+	background: url(../img/blog/collect_monthly.png) no-repeat;
+	background-position: left top;
+	width: 30px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts_300 .collect_month a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts_300 .collect_3month{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:115px;
+	top:3px;
+}
+
+#new_blog_parts_300 .collect_3month a{
+	background: url(../img/blog/collect_3month.png) no-repeat;
+	background-position: left top;
+	width: 30px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts_300 .collect_3month a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts_300  .collect_total{
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:148px;
+	top:2px;
+}
+
+#new_blog_parts_300 .collect_total a{
+	background: url(../img/blog/collect_total.png) no-repeat;
+	background-position: left top;
+	width: 30px;
+	height: 10px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts_300 .collect_total a:hover{
+	background-position: left bottom;
+}
+/*みんなのMT4用ここから*/
+#new_blog_parts_300 .collect_period_30day{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:99px;
+	top:3px;
+}
+
+#new_blog_parts_300 .collect_period_30day a{
+	background: url(../img/blog/collect_30days.png) no-repeat;
+	background-position: left top;
+	width: 35px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts_300 .collect_period_30day a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts_300  .collect_period_7day{
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:142px;
+	top:3px;
+}
+
+#new_blog_parts_300 .collect_period_7day a{
+	background: url(../img/blog/collect_7days.png) no-repeat;
+	background-position: left top;
+	width: 27px;
+	height: 9px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts_300 .collect_period_7day a:hover{
+	background-position: left bottom;
+}
+/*みんなのMT4用ここまで*/
+
+/*みんなのMT4用w160ここから*/
+#new_blog_parts_300_s .collect_period_30day{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:60px;
+	top:3px;
+}
+
+#new_blog_parts_300_s .collect_period_30day a{
+	background: url(../img/blog/collect_30days.png) no-repeat;
+	background-position: left top;
+	width: 35px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts_300_s .collect_period_30day a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts_300_s  .collect_period_7day{
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:103px;
+	top:3px;
+}
+
+#new_blog_parts_300_s .collect_period_7day a{
+	background: url(../img/blog/collect_7days.png) no-repeat;
+	background-position: left top;
+	width: 27px;
+	height: 9px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts_300_s .collect_period_7day a:hover{
+	background-position: left bottom;
+}
+/*みんなのMT4用w160ここまで*/
+
+
+
+#new_blog_parts_300 .ranking{
+	display: block;
+	float: left;
+	width: 170px;
+	height: 234px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+#new_blog_parts_300 .ranking_s{
+	display: block;
+	float: left;
+	width: 170px;
+	height: 128px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+#new_blog_parts_300 .chart{
+	display: block;
+	float: left;
+	width: 185px;
+	height: 106px;
+	position: relative;
+	top: 6px;
+	left: 7px;
+}
+
+#new_blog_parts_300 .more{
+	display: block;
+	float: left;
+	width: 50px;
+	height: 20px;
+	position: relative;
+	top: 3px;
+	left: 132px;
+}
+
+#new_blog_parts_300 .more a{
+	background: url(../img/blog/body_change_detail.png) no-repeat;
+	background-position: left top;
+	width: 60px;
+	height: 10px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts_300 .more a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts_300 #container3{
+	background: url(../img/blog/container_3_300.png) no-repeat;
+	display: block;
+	width: 300px;
+	height: 50px;
+	position: relative;
+	top: -10px;
+	left: 4px;
+}
+
+#new_blog_parts_300 .campaign{
+	display: block;
+	float: left;
+	width: 278px;
+	height: 24px;
+	position: relative;
+	top: 28px;
+	left: 6px;
+	text-indent: 10px;
+}
+
+#new_blog_parts_300 #container3 .campaign a{
+	font-size: 11px;
+}
+
+#new_blog_parts_300 .logo{
+	display: block;
+	width: 100px;
+	height: 24px;
+	position: relative;
+	top: -5px;
+	left: 222px;
+}
+
+#new_blog_parts_300 .logo a{
+	background: url(../img/blog/fx_on_com.png) no-repeat;
+	display: block;
+	width: 70px;
+	height: 15px;
+}
+
+#new_blog_parts_300 #back_ground #economic-indicator{
+	background: url(../img/blog/title_economic.png) no-repeat;
+	width: 150px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+#blog_parts{
+	margin: 0;
+	padding: 0;
+}
+
+#blog_parts #basic{
+	background: url(../img/blog/200_400_basic.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #blue{
+	background: url(../img/blog/200_400_blue.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #aqua{
+	background: url(../img/blog/200_400_aqua.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #green{
+	background: url(../img/blog/200_400_green.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #yellow{
+	background: url(../img/blog/200_400_yellow.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #red{
+	background: url(../img/blog/200_400_red.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #magenta{
+	background: url(../img/blog/200_400_magenta.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #basic_s{
+	background: url(../img/blog/200_400_basic_s.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #blue_s{
+	background: url(../img/blog/200_400_blue_s.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #aqua_s{
+	background: url(../img/blog/200_400_aqua_s.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #green_s{
+	background: url(../img/blog/200_400_green_s.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #yellow_s{
+	background: url(../img/blog/200_400_yellow_s.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #red_s{
+	background: url(../img/blog/200_400_red_s.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #magenta_s{
+	background: url(../img/blog/200_400_magenta_s.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#blog_parts #selector{
+	background: url(../img/blog/select.gif) no-repeat;
+	display: block;
+	width: 200px;
+	height: 30px;
+	position: relative;
+	top: 24px;
+	left: 6px;
+}
+
+#blog_parts #selector ul li{
+	float: left;
+}
+
+#blog_parts #selector ul li a{
+	display: block;
+	width: 48px;
+	height: 28px;
+}
+
+#blog_parts #contents{
+	padding: 32px 0 0 16px;
+}
+
+#blog_parts .po a{
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	width: 140px;
+}
+
+#blog_parts .po a span{
+	font-weight: bold;
+	margin: 0 0 0 5px;
+}
+
+#blog_parts .so{
+	display: block;
+	width: 170px;
+	height: 14px;
+	position: relative;
+	top: -7px;
+	border-bottom: 2px solid #cccccc;
+}
+
+#blog_parts .so a{
+	font-size: 11px;
+	color: #000000;
+	display: block;
+	width: 170px;
+	height: 12px;
+	white-space: nowrap;
+}
+
+#blog_parts .so a:hover{
+	background: #f1f1ff;
+}
+
+#blog_parts .vo{
+	float: right;
+	clear: both;
+	margin: 0 10px 0 0;
+	position: relative;
+	top: -5px;
+}
+
+#blog_parts .vo a{
+	font-weight: bold;
+}
+
+#blog_parts .rafi {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank1.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts .rase {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank2.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts .rath {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank3.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts .rafo {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank4.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts .rafv {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank5.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts .rasi {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank6.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts .rasv {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank7.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts .raei {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank8.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts .rani {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank9.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts .rate {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank10.png) no-repeat;
+	width: 132px;
+	height: 14px;
+}
+
+#blog_parts_s{
+	margin: 0;
+	padding: 0;
+}
+
+#blog_parts_s #basic{
+	background: url(../img/blog/160_400_basic.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #blue{
+	background: url(../img/blog/160_400_blue.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #aqua{
+	background: url(../img/blog/160_400_aqua.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #green{
+	background: url(../img/blog/160_400_green.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #yellow{
+	background: url(../img/blog/160_400_yellow.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #red{
+	background: url(../img/blog/160_400_red.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #magenta{
+	background: url(../img/blog/160_400_magenta.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #basic_s{
+	background: url(../img/blog/160_400_basic_s.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #blue_s{
+	background: url(../img/blog/160_400_blue_s.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #aqua_s{
+	background: url(../img/blog/160_400_aqua_s.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #green_s{
+	background: url(../img/blog/160_400_green_s.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #yellow_s{
+	background: url(../img/blog/160_400_yellow_s.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #red_s{
+	background: url(../img/blog/160_400_red_s.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #magenta_s{
+	background: url(../img/blog/160_400_magenta_s.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 400px;
+}
+
+#blog_parts_s #selector{
+	background: url(../img/blog/select_s.gif) no-repeat;
+	display: block;
+	width: 160px;
+	height: 30px;
+	position: relative;
+	top: 24px;
+	left: 6px;
+}
+
+#blog_parts_s #selector ul li{
+	float: left;
+}
+
+#blog_parts_s #selector ul li a{
+	display: block;
+	width: 38px;
+	height: 28px;
+}
+
+#blog_parts_s #contents{
+	padding: 32px 0 0 16px;
+}
+
+#blog_parts_s .po a{
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	width: 100px;
+}
+
+#blog_parts_s .po a span{
+	font-weight: bold;
+	margin: 0 0 0 5px;
+}
+
+#blog_parts_s .so{
+	display: block;
+	width: 130px;
+	height: 14px;
+	position: relative;
+	top: -7px;
+	border-bottom: 2px solid #cccccc;
+}
+
+#blog_parts_s .so a{
+	font-size: 11px;
+	color: #000000;
+	display: block;
+	width: 130px;
+	height: 12px;
+	white-space: nowrap;
+}
+
+#blog_parts_s .so a:hover{
+	background: #f1f1ff;
+}
+
+#blog_parts_s .vo{
+	float: right;
+	clear: both;
+	margin: 0 10px 0 0;
+	position: relative;
+	top: -5px;
+}
+
+#blog_parts_s .vo a{
+	font-weight: bold;
+}
+
+#blog_parts_s .rafi {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank1.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#blog_parts_s .rase {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank2.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#blog_parts_s .rath {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank3.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#blog_parts_s .rafo {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank4.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#blog_parts_s .rafv {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank5.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#blog_parts_s .rasi {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank6.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#blog_parts_s .rasv {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank7.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#blog_parts_s .raei {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank8.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#blog_parts_s .rani {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank9.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#blog_parts_s .rate {
+	padding: 0 5px 6px 30px;
+	margin: 0 0 7px 0;
+	background: url(../img/ranking/rank10.png) no-repeat;
+	width: 92px;
+	height: 14px;
+}
+
+#new_blog_parts{
+	margin: 0;
+	padding: 0;
+}
+
+#new_blog_parts #blog_parts_backgrount2{
+	background: url(../img/blog/background_2.png) repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#new_blog_parts #blog_parts_backgrount3{
+	background: url(../img/blog/background_3.png) repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#new_blog_parts #blog_parts_backgrount4{
+	background: url(../img/blog/background_4.png) repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#new_blog_parts #blog_parts_backgrount5{
+	background: url(../img/blog/background_5.png) repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#new_blog_parts #blog_parts_backgrount6{
+	background: url(../img/blog/background_6.png) repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#new_blog_parts #blog_parts_backgrount7{
+	background: url(../img/blog/background_7.png) repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#new_blog_parts #back_ground{
+	background: url(../img/blog/background_200.png) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#new_blog_parts  #back_ground #trade_ranking{
+	background: url(../img/blog/title_trader.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts #back_ground #system_ranking{
+	background: url(../img/blog/title_systemtrade.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts #back_ground #system_ranking_earning_rate{
+	background: url(../img/blog/title_systemtrade_earning_rate.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts #back_ground #bloger_ranking{
+	background: url(../img/blog/title_minna_blog.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts  #back_ground #account_ranking{
+	background: url(../img/blog/title_account.png) no-repeat;
+	width: 170px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts  #back_ground #account_ranking_pickup{
+	background: url(../img/blog/title_minna_notice.png) no-repeat;
+	width: 115px;
+	height: 13px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+	margin: 0 0 2px 0;
+}
+
+#new_blog_parts  #back_ground #account_ranking_excellence{
+	background: url(../img/blog/title_minna_excellence.png) no-repeat;
+	width: 115px;
+	height: 13px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+	margin: 0 0 2px 0;
+}
+
+#new_blog_parts #container1{
+	background: url(../img/blog/container_1_200.png) no-repeat;
+	display: block;
+	width: 200px;
+	height: 42px;
+	clear:both;
+	position: relative;
+	top: 8px;
+	left: 8px;
+}
+
+#new_blog_parts #container1 .upper{
+	display: block;
+	width: 180px;
+	height: 19px;
+}
+
+#new_blog_parts #container1 .upper .upl{
+	width: 60px;
+	height: 18px;
+	color: #141414;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 8px;
+}
+
+#new_blog_parts #container1 .upper .upl_nothing{
+	width: 85px;
+	height: 18px;
+	float: left;
+	color: #141414;
+	position: relative;
+	top: 6px;
+	left: 6px;
+	text-align: left;
+	white-space: nowrap;
+}
+
+#new_blog_parts #container1 .upper .upl_nothing .pfm{
+	font-size: 14px;
+	font-weight: bold;
+	color: #ff1493;
+	margin: 0 2px 0 0;
+}
+
+#new_blog_parts #container1 .upper .upl_nothing .pfc{
+	font-size: 14px;
+	font-weight: bold;
+	color: #1e90ff;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts #container1 .upper .upl_nothing .pfb{
+	font-size: 14px;
+	font-weight: bold;
+	color: #545454;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts #container1 .upper .upr{
+	width: 110px;
+	height: 18px;
+	float: right;
+	color: #141414;
+	position: relative;
+	top: 6px;
+	left: -2px;
+	text-align: right;
+	white-space: nowrap;
+}
+
+#new_blog_parts #container1 .upper .upr .pfm{
+	font-size: 14px;
+	font-weight: bold;
+	color: #ff1493;
+	margin: 0 2px 0 0;
+}
+
+#new_blog_parts #container1 .upper .upr .pfc{
+	font-size: 14px;
+	font-weight: bold;
+	color: #1e90ff;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts #container1 .upper .upr .pfb{
+	font-size: 14px;
+	font-weight: bold;
+	color: #545454;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts #container1 .lower{
+	display: block;
+	width: 180px;
+	height: 17px;
+}
+
+#new_blog_parts #container1 .lower .lol{
+	white-space: nowrap;
+	width: 90px;
+	height: 18px;
+	color: #141414;
+	font-size: 11px;
+	float: left;
+	position: relative;
+	top:3px;
+	left: 8px;
+}
+
+#new_blog_parts .lor{
+	width: 20px;
+	height: 10px;
+	float:right;
+	position: relative;
+	top: 8px;
+	right: 2px;
+}
+
+#new_blog_parts .lor a{
+	background: url(../img/blog/up_change_detail.png) no-repeat;
+	background-position: left top;
+	width: 20px;
+	height: 10px;
+	float:right;
+}
+
+#new_blog_parts .lor a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts #container2{
+	background: url(../img/blog/container_2_200.png) no-repeat;
+	display: block;
+	width: 200px;
+	height: 280px;
+	position: relative;
+	top: 3px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts #container2_0{
+	background: url(../img/blog/container_9_200.png) no-repeat;
+	display: block;
+	width: 200px;
+	height: 280px;
+	position: relative;
+	top: 3px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts #container2_1{
+	background: url(../img/blog/container_8b_200.png) no-repeat;
+	display: block;
+	width: 200px;
+	height: 280px;
+	position: relative;
+	top: 3px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts #container5{
+	background: url(../img/blog/container_5_200.png) no-repeat;
+	display: block;
+	width: 200px;
+	height: 280px;
+	position: relative;
+	top: 3px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts #container5{
+	background: url(../img/blog/container_5_321.png) no-repeat;
+	display: block;
+	width: 200px;
+	height: 319px;
+	position: relative;
+	top: -7px;
+	left: 4px;
+	clear: both;
+}
+
+#new_blog_parts .selector{
+	display: block;
+	width: 170px;
+	height: 23px;
+	position: relative;
+	top: 16px;
+	left: 12px;
+}
+
+#new_blog_parts .collect_month{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:122px;
+	top:3px;
+}
+
+#new_blog_parts .collect_month a{
+	background: url(../img/blog/collect_monthly.png) no-repeat;
+	background-position: left top;
+	width: 30px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts .collect_month a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts .collect_3month{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:115px;
+	top:3px;
+}
+
+#new_blog_parts .collect_3month a{
+	background: url(../img/blog/collect_3month.png) no-repeat;
+	background-position: left top;
+	width: 30px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts .collect_3month a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts  .collect_total{
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:148px;
+	top:2px;
+}
+
+#new_blog_parts .collect_total a{
+	background: url(../img/blog/collect_total.png) no-repeat;
+	background-position: left top;
+	width: 30px;
+	height: 10px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts .collect_total a:hover{
+	background-position: left bottom;
+}
+/*みんなのMT4用ここから*/
+#new_blog_parts .collect_period_30day{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:99px;
+	top:3px;
+}
+
+#new_blog_parts .collect_period_30day a{
+	background: url(../img/blog/collect_30days.png) no-repeat;
+	background-position: left top;
+	width: 35px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts .collect_period_30day a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts  .collect_period_7day{
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:142px;
+	top:3px;
+}
+
+#new_blog_parts .collect_period_7day a{
+	background: url(../img/blog/collect_7days.png) no-repeat;
+	background-position: left top;
+	width: 27px;
+	height: 9px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts .collect_period_7day a:hover{
+	background-position: left bottom;
+}
+/*みんなのMT4用ここまで*/
+
+/*みんなのMT4用w160ここから*/
+#new_blog_parts_s .collect_period_30day{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:60px;
+	top:3px;
+}
+
+#new_blog_parts_s .collect_period_30day a{
+	background: url(../img/blog/collect_30days.png) no-repeat;
+	background-position: left top;
+	width: 35px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts_s .collect_period_30day a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts_s  .collect_period_7day{
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left:103px;
+	top:3px;
+}
+
+#new_blog_parts_s .collect_period_7day a{
+	background: url(../img/blog/collect_7days.png) no-repeat;
+	background-position: left top;
+	width: 27px;
+	height: 9px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts_s .collect_period_7day a:hover{
+	background-position: left bottom;
+}
+/*みんなのMT4用w160ここまで*/
+
+
+
+#new_blog_parts .ranking{
+	display: block;
+	float: left;
+	width: 170px;
+	height: 234px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+#new_blog_parts .ranking_s{
+	display: block;
+	float: left;
+	width: 170px;
+	height: 128px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+#new_blog_parts .chart{
+	display: block;
+	float: left;
+	width: 185px;
+	height: 106px;
+	position: relative;
+	top: 6px;
+	left: 7px;
+}
+
+#new_blog_parts .more{
+	display: block;
+	float: left;
+	width: 50px;
+	height: 20px;
+	position: relative;
+	top: 3px;
+	left: 132px;
+}
+
+#new_blog_parts .more a{
+	background: url(../img/blog/body_change_detail.png) no-repeat;
+	background-position: left top;
+	width: 60px;
+	height: 10px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts .more a:hover{
+	background-position: left bottom;
+}
+
+#container2_0 .more{
+	display: block;
+	float: left;
+	width: 50px;
+	height: 20px;
+	position: relative;
+	top: -17px;
+	left: 121px;
+}
+
+#container2_0 .more a{
+	background: url(../img/blog/body_change_detail.png) no-repeat;
+	background-position: left top;
+	width: 60px;
+	height: 10px;
+	display: block;
+	text-indent:-999px;
+}
+
+#container2_0 .more a:hover{
+	background-position: left bottom;
+}
+
+#container2_1 .more{
+	display: block;
+	float: left;
+	width: 50px;
+	height: 20px;
+	position: relative;
+	top: -17px;
+	left: 121px;
+}
+
+#container2_1 .more a{
+	background: url(../img/blog/body_change_detail.png) no-repeat;
+	background-position: left top;
+	width: 60px;
+	height: 10px;
+	display: block;
+	text-indent:-999px;
+}
+
+#container2_1 .more a:hover{
+	background-position: left bottom;
+}
+
+
+#new_blog_parts #container3{
+	background: url(../img/blog/container_3_200.png) no-repeat;
+	display: block;
+	width: 200px;
+	height: 50px;
+	position: relative;
+	top: -10px;
+	left: 4px;
+}
+
+#new_blog_parts .campaign{
+	display: block;
+	float: left;
+	width: 178px;
+	height: 24px;
+	position: relative;
+	top: 28px;
+	left: 6px;
+	text-indent: 10px;
+}
+
+#new_blog_parts #container3 .campaign a{
+	font-size: 11px;
+}
+
+#new_blog_parts .logo{
+	display: block;
+	width: 100px;
+	height: 24px;
+	position: relative;
+	top: -5px;
+	left: 125px;
+}
+
+#new_blog_parts .logo a{
+	background: url(../img/blog/fx_on_com.png) no-repeat;
+	display: block;
+	width: 70px;
+	height: 15px;
+}
+
+#new_blog_parts_s{
+	margin: 0;
+	padding: 0;
+}
+
+#new_blog_parts_s #blog_parts_backgrount2{
+	background: url(../img/blog/background_2.png) repeat;
+	display: block;
+	width:160px;
+	height: 400px;
+}
+
+#new_blog_parts_s #blog_parts_backgrount3{
+	background: url(../img/blog/background_3.png) repeat;
+	display: block;
+	width:160px;
+	height: 400px;
+}
+
+#new_blog_parts_s #blog_parts_backgrount4{
+	background: url(../img/blog/background_4.png) repeat;
+	display: block;
+	width:160px;
+	height: 400px;
+}
+
+#new_blog_parts_s #blog_parts_backgrount5{
+	background: url(../img/blog/background_5.png) repeat;
+	display: block;
+	width:160px;
+	height: 400px;
+}
+
+#new_blog_parts_s #blog_parts_backgrount6{
+	background: url(../img/blog/background_6.png) repeat;
+	display: block;
+	width:160px;
+	height: 400px;
+}
+
+#new_blog_parts_s #blog_parts_backgrount7{
+	background: url(../img/blog/background_7.png) repeat;
+	display: block;
+	width:160px;
+	height: 400px;
+}
+
+#new_blog_parts_s #back_ground{
+	background: url(../img/blog/background_160.png) no-repeat;
+	display: block;
+	width: 200px;
+	height: 400px;
+}
+
+#new_blog_parts_s #back_ground #trade_ranking{
+	background: url(../img/blog/title_trader.png) no-repeat;
+	width: 150px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+#new_blog_parts_s #back_ground #system_ranking{
+	background: url(../img/blog/title_systemtrade_min.png) no-repeat;
+	width: 150px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+#new_blog_parts_s #back_ground #system_ranking_earning_rate{
+	background: url(../img/blog/title_systemtrade_earning_rate.png) no-repeat;
+	width: 150px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+#new_blog_parts_s #back_ground #bloger_ranking{
+	background: url(../img/blog/title_minna_blog.png) no-repeat;
+	width: 150px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+#new_blog_parts_s #back_ground #account_ranking{
+	background: url(../img/blog/title_account.png) no-repeat;
+	width: 150px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+#new_blog_parts_s #back_ground #account_ranking_excellence{
+	background: url(../img/blog/title_minna_excellence.png) no-repeat;
+	width: 115px;
+	height: 13px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+#new_blog_parts_s #back_ground #account_ranking_pickup{
+	background: url(../img/blog/title_minna_notice.png) no-repeat;
+	width: 115px;
+	height: 13px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+#new_blog_parts #back_ground #economic-indicator{
+	background: url(../img/blog/title_economic.png) no-repeat;
+	width: 150px;
+	height: 15px;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+
+#new_blog_parts_s #container1{
+	background: url(../img/blog/container_1_160.png) no-repeat;
+	display: block;
+	height: 43px;
+	clear: both;
+	position: relative;
+	top: 10px;
+	left: 8px;
+}
+
+#new_blog_parts_s #container1 .upper{
+	display: block;
+	width: 140px;
+	height: 19px;
+}
+
+#new_blog_parts_s #container1 .upper .upl{
+	width: 40px;
+	height: 18px;
+	color: #141414;
+	float: left;
+	position: relative;
+	top: 6px;
+	left: 6px;
+}
+
+#new_blog_parts_s #container1 .upper .upl_nothing{
+	width: 88px;
+	height: 18px;
+	float: left;
+	color: #141414;
+	position: relative;
+	top: 6px;
+	left: 6px;
+	text-align:left;
+	white-space: nowrap;
+}
+
+#new_blog_parts_s #container1 .upper .upl_nothing .pfm{
+	font-size: 14px;
+	font-weight: bold;
+	color: #ff1493;
+	margin: 0 2px 0 0;
+}
+
+#new_blog_parts_s #container1 .upper .upl_nothing .pfc{
+	font-size: 14px;
+	font-weight: bold;
+	color: #1e90ff;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts_s #container1 .upper .upl_nothing .pfb{
+	font-size: 14px;
+	font-weight: bold;
+	color: #545454;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts_s #container1 .upper .upr{
+	width: 88px;
+	height: 18px;
+	float: left;
+	color: #141414;
+	position: relative;
+	top: 6px;
+	left: 2px;
+	text-align:right;
+	white-space: nowrap;
+}
+
+#new_blog_parts_s #container1 .upper .upr .pfm{
+	font-size: 14px;
+	font-weight: bold;
+	color: #ff1493;
+	margin: 0 2px 0 0;
+}
+
+#new_blog_parts_s #container1 .upper .upr .pfc{
+	font-size: 14px;
+	font-weight: bold;
+	color: #1e90ff;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts_s #container1 .upper .upr .pfb{
+	font-size: 14px;
+	font-weight: bold;
+	color: #545454;
+	margin: 0 4px 0 0;
+}
+
+#new_blog_parts_s #container1 .lower{
+	display: block;
+	width: 140px;
+	height: 18px;
+}
+
+#new_blog_parts_s #container1 .lower .lol{
+	white-space: nowrap;
+	width: 60px;
+	height: 18px;
+	color: #141414;
+	font-size: 10px;
+	float: left;
+	position: relative;
+	top:3px;
+	left: 8px;
+}
+
+#new_blog_parts_s .lor{
+	width: 20px;
+	height: 10px;
+	float:right;
+	position: relative;
+	top: 8px;
+	right: 2px;
+}
+
+#new_blog_parts_s .lor a{
+	background: url(../img/blog/up_change_detail.png) no-repeat;
+	background-position: left top;
+	width: 20px;
+	height: 10px;
+	float:right;
+}
+
+#new_blog_parts_s .lor a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts_s #container2{
+	background: url(../img/blog/container_2_160.png) no-repeat;
+	display: block;
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 4px;
+	left: 4px;
+}
+
+#new_blog_parts_s #container2_0{
+	background: url(../img/blog/container_9_160.png) no-repeat;
+	display: block;
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 4px;
+	left: 4px;
+}
+
+#new_blog_parts_s #container2_1{
+	background: url(../img/blog/container_8bc_160.png) no-repeat;
+	display: block;
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 4px;
+	left: 4px;
+}
+
+
+#new_blog_parts_s .selector{
+	display: block;
+	width: 140px;
+	height: 23px;
+	position: relative;
+	top: 16px;
+	left: 12px;
+}
+
+#new_blog_parts_s .collect_month{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left: 86px;
+	top:2px;
+}
+
+#new_blog_parts_s  .collect_month a{
+	background: url(../img/blog/collect_monthly.png) no-repeat;
+	width: 30px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts_s .collect_month a:hover, .collect_month a:focus{
+	background-position: left bottom;
+}
+
+
+
+#new_blog_parts_s #container2_0 .collect_month{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left: 84px;
+	top: 6px;
+}
+
+#new_blog_parts_s #container2_0  .collect_month a{
+	background: url(../img/blog/collect_monthly.png) no-repeat;
+	width: 30px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts_s #container2_0 .collect_month a:hover, .collect_month a:focus{
+	background-position: left bottom;
+}
+
+
+
+#new_blog_parts_s .collect_3month{
+	float: left;
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left: 79px;
+	top:5px;
+}
+
+#new_blog_parts_s  .collect_3month a{
+	background: url(../img/blog/collect_3month.png) no-repeat;
+	width: 30px;
+	height: 9px;
+	display: block;
+}
+
+#new_blog_parts_s .collect_3month a:hover, .collect_3month a:focus{
+	background-position: left bottom;
+}
+
+#new_blog_parts_s .collect_total{
+	width: 20px;
+	height: 15px;
+	display: block;
+	position: relative;
+	left: 110px;
+	top: 5px;
+}
+
+#new_blog_parts_s  .collect_total a{
+	background: url(../img/blog/collect_total.png) no-repeat;
+	width: 30px;
+	height: 10px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts_s .collect_total a:hover, .collect_month a:focus{
+	background-position: left bottom;
+}
+
+#new_blog_parts_s .ranking{
+	display: block;
+	float: left;
+	width: 140px;
+	height: 236px;
+	position: relative;
+	top: 8px;
+	left: 10px;
+}
+
+#new_blog_parts_s .ranking_s{
+	display: block;
+	float: left;
+	width: 140px;
+	height: 132px;
+	position: relative;
+	top: 7px;
+	left: 10px;
+}
+
+#new_blog_parts_s .chart{
+	display: block;
+	float: left;
+	width: 140px;
+	height: 103px;
+	position: relative;
+	top: 4px;
+	left: 7px;
+}
+
+#new_blog_parts_s .more{
+	display: block;
+	float: left;
+	width: 50px;
+	height: 35px;
+	position: relative;
+	left: 92px;
+}
+
+#new_blog_parts_s .more a{
+	background: url(../img/blog/body_change_detail.png) no-repeat;
+	background-position: left top;
+	width: 60px;
+	height: 10px;
+	display: block;
+	text-indent:-999px;
+}
+
+#new_blog_parts_s .more a:hover{
+	background-position: left bottom;
+}
+
+#new_blog_parts_s #container3{
+	background: url(../img/blog/container_3_160.png) no-repeat;
+	display: block;
+	width: 160px;
+	height: 50px;
+	position: relative;
+	top: -8px;
+}
+
+#new_blog_parts_s .campaign{
+	display: block;
+	float: left;
+	width: 140px;
+	height: 28px;
+	position: relative;
+	top: 12px;
+	left: 6px;
+}
+
+#new_blog_parts_s #container3 .campaign a{
+	font-size: 11px;
+}
+
+#new_blog_parts_s .logo{
+	display: block;
+	width: 100px;
+	height: 24px;
+	position: relative;
+	top: -5px;
+	left: 85px;
+}
+
+#new_blog_parts_s .logo a{
+	background: url(../img/blog/fx_on_com.png) no-repeat;
+	display: block;
+	width: 70px;
+	height: 15px;
+}
+
+#pane4{
+	width: 172px;
+	height: 123px;
+
+}
+
+#pane4 .myrank{
+	background: url(../img/blog/myrank.png) no-repeat;
+	width: 172px;
+	height: 25px;
+	position: relative;
+	top: 4px;
+}
+
+#pane4 .myrank .nickname{
+	width: 140px;
+	height: 12px;
+	float:left;
+	font-size: 10px;
+	font-weight: bold;
+	position: relative;
+	left: 4px;
+}
+
+#pane4 .myrank .nickname a{
+	font-size: 10px;
+	font-weight: bold;
+}
+
+
+#pane4 .myrank .order{
+	width: 30px;
+	height: 23px;
+	text-align:right;
+	font-size: 10px;
+	font-weight: bold;
+	height: 12px;
+	float: left;
+	position: relative;
+	top: -2px;
+}
+
+#pane4 .myrank .ran{
+	width: 140px;
+	height: 12px;
+	text-align:right;
+	font-size: 10px;
+	font-weight: bold;
+	float:right;
+	position: relative;
+	right: 7px;
+	top: -4px;
+}
+
+#pane4 .otherrank{
+	clear: both;
+	width: 172px;
+	height: 23px;
+}
+
+#pane4 .otherrank .nickname{
+	width: 140px;
+	height: 12px;
+	float:left;
+	font-weight: bold;
+	position: relative;
+	left: 4px;
+}
+
+#pane4 .otherrank .nickname a{
+	font-size: 10px;
+}
+
+#pane4 .otherrank .order{
+	width: 30px;
+	height: 23px;
+	text-align:right;
+	font-size: 10px;
+	font-weight: bold;
+	height: 12px;
+	float: left;
+}
+
+#pane4 .otherrank .ran{
+	width: 140px;
+	height: 12px;
+	text-align:right;
+	font-size: 10px;
+	font-weight: bold;
+	float:right;
+	position: relative;
+	right: 7px;
+	top: -4px;
+}
+
+
+#slider {
+	width:172px;
+	display: block;
+}
+
+#slider .isdemo_ex_pic_demo{
+	background: url(../img/demo.png) no-repeat;
+	width: 29px;
+	height: 12px;
+	display: block;
+	float: left;
+	position: relative;
+	margin: 0 0 0 2px;
+	text-indent: -9999px;
+}
+
+#slider .isdemo_ex_pic_demo2{
+	background: url(../img/demo.png) no-repeat;
+	width: 29px;
+	height: 12px;
+	display: block;
+	float: left;
+	position: relative;
+	margin: 0 0 0 5px;
+	text-indent: -9999px;
+}
+
+#slider .isdemo_ex_pic_real{
+	background: url(../img/real.png) no-repeat;
+	width: 29px;
+	height: 12px;
+	display: block;
+	float: left;
+	position: relative;
+	margin: 0 0 0 2px;
+	text-indent: -9999px;
+}
+
+#slider .isdemo_ex_pic_real2 {
+background: url(../img/real.png) no-repeat;
+width: 29px;
+height: 12px;
+display: block;
+float: left;
+position: relative;
+margin: 0 0 0 5px;
+text-indent: -9999px;
+}
+
+
+
+#slider_s .isdemo_ex_pic_demo{
+	background: url(../img/demo.png) no-repeat;
+	width: 29px;
+	height: 12px;
+	display: block;
+	float: left;
+	position: relative;
+	margin: 0 0 0 2px;
+	text-indent: -9999px;
+}
+
+#slider_s .isdemo_ex_pic_demo2{
+	background: url(../img/demo.png) no-repeat;
+	width: 29px;
+	height: 12px;
+	display: block;
+	float: left;
+	position: relative;
+	margin: 0 0 0 5px;
+	text-indent: -9999px;
+}
+
+#slider_s .isdemo_ex_pic_real{
+	background: url(../img/real.png) no-repeat;
+	width: 29px;
+	height: 12px;
+	display: block;
+	float: left;
+	position: relative;
+	margin: 0 0 0 2px;
+	text-indent: -9999px;
+}
+
+#slider_s .isdemo_ex_pic_real2 {
+background: url(../img/real.png) no-repeat;
+width: 29px;
+height: 12px;
+display: block;
+float: left;
+position: relative;
+margin: 0 0 0 5px;
+text-indent: -9999px;
+}
+
+
+
+
+#slider .pop{
+	display: block;
+	width: 180px;
+	height: 17px;
+	position: relative;
+	top: 3px;
+	left: 5px;
+}
+
+#slider .pop_ex{
+	display: block;
+	width: 180px;
+	height: 17px;
+	position: relative;
+	top: 13px;
+	left: 11px;
+}
+
+
+#slider .pop a{
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	height: 17px;
+}
+
+#slider .pop_ex a{
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	height: 17px;
+}
+
+#slider .pop a span{
+	font-weight: bold;
+	position: relative;
+	left: 5px;
+}
+
+#slider .pop_ex a span{
+	font-weight: bold;
+	position: relative;
+	left: 5px;
+}
+
+#slider .poo{
+	display: block;
+	width: 139px;
+	height: 17px;
+	position: relative;
+	top: 1px;
+	left: 5px;
+}
+
+#slider .poo_ex{
+	display: block;
+	width: 139px;
+	height: 17px;
+	position: relative;
+	top: -19px;
+	left: 35px;
+}
+
+#slider .poo a{
+	font-size: 12px;
+	color: #000000;
+	display: block;
+	height: 17px;
+	white-space: nowrap;
+}
+
+#slider .poo_ex a{
+	font-size: 12px;
+	color: #000000;
+	display: block;
+	height: 17px;
+	white-space: nowrap;
+}
+
+#slider .poo_ex2{
+	display: block;
+	width: 139px;
+	height: 17px;
+	position: relative;
+	top: -19px;
+	left: 35px;
+}
+
+#slider .poo_ex2 a {
+font-size: 12px;
+color: #000000;
+display: block;
+height: 17px;
+white-space: nowrap;
+position: relative;
+top: 49px;
+left: -62px;
+}
+
+
+#slider .pon_ex {
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	height: 17px;
+	position: relative;
+	top: -5px;
+	left: 4px;
+}
+
+#slider .pon_ex2 {
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	height: 17px;
+	position: relative;
+	top: -3px;
+	left: 4px;
+}
+
+#slider .pon_ex a{
+	font-size: 12px;
+	color: #000000;
+	display: block;
+	height: 17px;
+	white-space: nowrap;
+}
+
+
+
+
+
+
+#slider_s .pop{
+	display: block;
+	width: 180px;
+	height: 17px;
+	position: relative;
+	top: 3px;
+	left: 5px;
+}
+
+#slider_s .pop_ex{
+	display: block;
+	width: 180px;
+	height: 17px;
+	position: relative;
+	top: 13px;
+	left: -31px;
+}
+
+
+#slider_s .pop a{
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	height: 17px;
+}
+
+#slider_s .pop_ex a{
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	height: 17px;
+}
+
+#slider_s .pop a span{
+	font-weight: bold;
+	position: relative;
+	left: 5px;
+}
+
+#slider_s .pop_ex a span{
+	font-weight: bold;
+	position: relative;
+	left: 5px;
+}
+
+#slider_s .poo{
+	display: block;
+	width: 139px;
+	height: 17px;
+	position: relative;
+	top: 1px;
+	left: 5px;
+}
+
+#slider_s .poo_ex{
+	display: block;
+	width: 139px;
+	height: 17px;
+	position: relative;
+	top: -19px;
+	left: 35px;
+}
+
+#slider_s .poo a{
+	font-size: 12px;
+	color: #000000;
+	display: block;
+	height: 17px;
+	white-space: nowrap;
+}
+
+#slider_s .poo_ex a{
+	font-size: 12px;
+	color: #000000;
+	display: block;
+	height: 17px;
+	white-space: nowrap;
+}
+
+#slider_s .poo_ex2{
+	display: block;
+	width: 139px;
+	height: 17px;
+	position: relative;
+	top: -19px;
+	left: 35px;
+}
+
+#slider_s .poo_ex2 a {
+	font-size: 12px;
+	color: #000000;
+	display: block;
+	height: 17px;
+	white-space: nowrap;
+	position: relative;
+	top: 49px;
+	left: -62px;
+}
+
+
+#slider_s .pon_ex {
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	height: 17px;
+	position: relative;
+	top: -5px;
+	left: 4px;
+}
+
+#slider_s .pon_ex2 {
+font-weight: bold;
+font-size: 12px;
+display: block;
+height: 17px;
+position: relative;
+top: -3px;
+left: 4px;
+}
+
+#slider_s .pon_ex a{
+	font-size: 12px;
+	color: #000000;
+	display: block;
+	height: 17px;
+	white-space: nowrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#slider .ura{
+	font-size: 12px;
+	height: 35px;
+	width: 158px;
+	position: relative;
+	top: 12px;
+	left: 10px;
+}
+
+
+#slider .ura a{
+	font-size: 12px;
+	width: 158px;
+}
+
+
+
+
+
+#slider .vo{
+	float: right;
+	clear: both;
+	margin: 0 10px 0 0;
+	position: relative;
+	top: -5px;
+}
+
+#slider .vo a{
+	font-weight: bold;
+}
+
+
+
+
+#slider .rafi {
+	width: 158px;
+	height: 38px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .rafi .im{
+	background: url(../img/ranking/rank1.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .rase {
+	width: 158px;
+	height: 39px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .rase .im{
+	background: url(../img/ranking/rank2.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .rath {
+	width: 158px;
+	height: 39px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .rath .im{
+	background: url(../img/ranking/rank3.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider .rafo {
+	width: 158px;
+	height: 39px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .rafo .im{
+	background: url(../img/ranking/rank4.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .rafv {
+	width: 158px;
+	height: 39px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .rafv .im{
+	background: url(../img/ranking/rank5.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider .rasi {
+	width: 158px;
+	height: 39px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .rasi .im{
+	background: url(../img/ranking/rank6.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .rasv {
+	width: 158px;
+	height: 39px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .rasv .im{
+	background: url(../img/ranking/rank7.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider .raei {
+	width: 158px;
+	height: 39px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .raei .im{
+	background: url(../img/ranking/rank8.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .rani {
+	width: 158px;
+	height: 39px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .rani .im{
+	background: url(../img/ranking/rank9.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .rate {
+	width: 158px;
+	height: 39px;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+}
+
+#slider .rate .im{
+	background: url(../img/ranking/rank10.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+/*blogparts ランキング用ここから*/
+
+.blog_rank_from .im_blog{
+	text-shadow: 0px 2px 3px #111111;
+	width: 28px;
+	height: 18px;
+	color: white;
+	background-color: #9f81fa;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1.00, #8961ff), color-stop(0.00, #bfa1fa));
+	background: -webkit-linear-gradient(#bfa1fa, #8961ff);
+	background: -moz-linear-gradient(#bfa1fa, #8961ff);
+	background: -o-linear-gradient(#bfa1fa, #8961ff);
+	background: -ms-linear-gradient(#bfa1fa, #8961ff);
+	background: linear-gradient(#bfa1fa, #8961ff);
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-weight: bold;
+	position: relative;
+	top: 3px;
+	left: -2px;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 20px;
+	margin: 0 5px 0 0;
+}
+
+.blog_rank_from .ura{
+	font-size: 12px;
+	height: 35px;
+	width: 130px;
+	position: relative;
+	top: 12px;
+}
+
+
+.blog_rank_from .ura a{
+	font-size: 12px;
+	width: 130px;
+}
+
+#slider .ura_blog{
+	font-size: 12px;
+	height: 35px;
+	width: 145px;
+	position: relative;
+	top: 12px;
+}
+
+
+#slider .ura_blog a{
+	font-size: 12px;
+	width: 130px;
+}
+
+
+#slider .blog_rank_from .ura_blog{
+	font-size: 12px;
+	height: 22px;
+	width: 150px;
+	position: relative;
+	top: 5px;
+}
+
+
+#slider .blog_rank_from .ura_blog a{
+	font-size: 12px;
+	width: 130px;
+}
+
+
+#slider .blog_rafi {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+/*	border-bottom: 1px solid #cccccc; */
+	position: relative;
+}
+
+#slider .blog_rafi .im{
+	background: url(../img/ranking/rank1.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_rase {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+	position: relative;
+}
+
+#slider .blog_rase .im{
+	background: url(../img/ranking/rank2.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_rath {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+	position: relative;
+}
+
+#slider .blog_rath .im{
+	background: url(../img/ranking/rank3.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider .blog_rafo {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+	position: relative;
+}
+
+#slider .blog_rafo .im{
+	background: url(../img/ranking/rank4.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_rafv {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+	position: relative;
+}
+
+#slider .blog_rafv .im{
+	background: url(../img/ranking/rank5.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider .blog_rasi {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+	position: relative;
+}
+
+#slider .blog_rasi .im{
+	background: url(../img/ranking/rank6.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_rasv {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+	position: relative;
+}
+
+#slider .blog_rasv .im{
+	background: url(../img/ranking/rank7.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider .blog_raei {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+	position: relative;
+}
+
+#slider .blog_raei .im{
+	background: url(../img/ranking/rank8.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_rani {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+	position: relative;
+}
+
+#slider .blog_rani .im{
+	background: url(../img/ranking/rank9.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_rate {
+	width: 158px;
+	height: 31px;
+	margin: -8px 0 0 0;
+	position: relative;
+}
+
+#slider .blog_rate .im{
+	background: url(../img/ranking/rank10.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+/*blogparts ランキング用ここまで*/
+
+
+/*優秀ブログランキングここから*/
+#slider .blog_ex_rafi {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_rafi .im{
+	background: url(../img/ranking/rank1.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_ex_rase {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_rase .im{
+	background: url(../img/ranking/rank2.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_ex_rath {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_rath .im{
+	background: url(../img/ranking/rank3.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider .blog_ex_rafo {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_rafo .im{
+	background: url(../img/ranking/rank4.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_ex_rafv {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_rafv .im{
+	background: url(../img/ranking/rank5.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider .blog_ex_rasi {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_rasi .im{
+	background: url(../img/ranking/rank6.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_ex_rasv {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_rasv .im{
+	background: url(../img/ranking/rank7.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider .blog_ex_raei {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_raei .im{
+	background: url(../img/ranking/rank8.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_ex_rani {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_rani .im{
+	background: url(../img/ranking/rank9.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider .blog_ex_rate {
+	width: 160px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider .blog_ex_rate .im{
+	background: url(../img/ranking/rank10.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+/*優秀ブログランキング ここまで*/
+
+
+
+/*優秀ブログランキングw160ここから*/
+#slider_s .blog_ex_rafi {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_rafi .im{
+	background: url(../img/ranking/rank1.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider_s .blog_ex_rase {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_rase .im{
+	background: url(../img/ranking/rank2.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider_s .blog_ex_rath {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_rath .im{
+	background: url(../img/ranking/rank3.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider_s .blog_ex_rafo {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_rafo .im{
+	background: url(../img/ranking/rank4.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider_s .blog_ex_rafv {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_rafv .im{
+	background: url(../img/ranking/rank5.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider_s .blog_ex_rasi {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_rasi .im{
+	background: url(../img/ranking/rank6.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider_s .blog_ex_rasv {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_rasv .im{
+	background: url(../img/ranking/rank7.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+
+#slider_s .blog_ex_raei {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_raei .im{
+	background: url(../img/ranking/rank8.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider_s .blog_ex_rani {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_rani .im{
+	background: url(../img/ranking/rank9.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+
+#slider_s .blog_ex_rate {
+	width: 133px;
+	height: 48px;
+	margin: 0 0 5px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .blog_ex_rate .im{
+	background: url(../img/ranking/rank10.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 21px;
+	position: relative;
+	top: 8px;
+	left: 3px;
+}
+/*優秀ブログランキングw160 ここまで*/
+#pane4_s{
+	width: 132px;
+	height: 123px;
+
+}
+
+#pane4_s .myrank{
+	background: url(../img/blog/myrank_s.png) no-repeat;
+	width: 130px;
+	height: 25px;
+	position: relative;
+	top: 4px;
+}
+
+#pane4_s .myrank a{
+	width: 100px;
+	float:left;
+	font-size: 10px;
+	font-weight: bold;
+	height: 13px;
+	padding: 0 0 0 4px;
+}
+
+#pane4_s .myrank .order{
+	width: 25px;
+	text-align:right;
+	font-size: 10px;
+	font-weight: bold;
+	height: 25px;
+	float:left;
+	position: relative;
+	top: -3px;
+}
+
+#pane4_s .myrank .ran{
+	position: relative;
+	top: -6px;
+	width: 100px;
+	text-align:right;
+	font-size: 10px;
+	font-weight: bold;
+	height: 12px;
+	float:left;
+	padding: 0 0 0 2px;
+}
+
+#pane4_s .otherrank{
+	width: 130px;
+	height: 23px;
+}
+
+#pane4_s .otherrank a{
+	width: 100px;
+	float:left;
+	font-size: 9px;
+	height: 12px;
+	position: relative;
+	left: 4px;
+}
+
+#pane4_s .otherrank .order{
+	width: 25px;
+	text-align:right;
+	font-size: 10px;
+	font-weight: bold;
+	height: 23px;
+	float:left;
+}
+
+#pane4_s .otherrank .ran{
+	position: relative;
+	top: -6px;
+	width: 100px;
+	text-align:right;
+	font-size: 10px;
+	height: 12px;
+	float:left;
+	padding: 0 0 0 2px;
+}
+
+
+#slider_s {
+	width:130px;
+	display: block;
+}
+
+
+#slider_s .pop{
+	white-space: nowrap;
+	display: block;
+	width: 99px;
+	height: 17px;
+}
+
+#slider_s .pop a{
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	height: 17px;
+	width: 99px;
+	position: relative;
+	left: 5px;
+	top: 4px
+}
+
+#slider_s .pop a span{
+	font-weight: bold;
+	position: relative;
+	left: 5px;
+}
+
+#slider_s .poo{
+	display: block;
+	height: 17px;
+	position: relative;
+	top: 4px;
+	left: 5px;
+}
+
+#slider_s .poo a{
+	font-size: 12px;
+	color: #000000;
+	display: block;
+	width: 99px;
+	height: 17px;
+	white-space: nowrap;
+}
+
+#slider_s .ura{
+	font-size: 12px;
+	height: 35px;
+	width: 130px;
+	position: relative;
+	top: 12px;
+}
+
+#slider_s .ura_blog{
+	font-size: 12px;
+	height: 22px;
+	width: 130px;
+	position: relative;
+	top: 13px;
+}
+
+#slider_s .ura_blog_after{
+	font-size: 12px;
+	height: 22px;
+	width: 130px;
+	position: relative;
+	top: 5px;
+}
+
+
+#slider_s .ura a{
+	font-size: 12px;
+	width: 130px;
+}
+
+
+
+
+
+#slider_s .vo{
+	float: right;
+	clear: both;
+	margin: 0 10px 0 0;
+	position: relative;
+	top: -5px;
+}
+
+#slider_s .vo a{
+	font-weight: bold;
+}
+
+#slider_s .rafi {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .rafi .im{
+	background: url(../img/ranking/rank1.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .rase {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .rase .im{
+	background: url(../img/ranking/rank2.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .rath {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .rath .im{
+	background: url(../img/ranking/rank3.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+
+#slider_s .rafo {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .rafo .im{
+	background: url(../img/ranking/rank4.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .rafv {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .rafv .im{
+	background: url(../img/ranking/rank5.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .rasi {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .rasi .im{
+	background: url(../img/ranking/rank6.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .rasv {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .rasv .im{
+	background: url(../img/ranking/rank7.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .raei {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .raei .im{
+	background: url(../img/ranking/rank8.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .rani {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .rani .im{
+	background: url(../img/ranking/rank9.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .rate {
+	width: 130px;
+	height: 40px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#slider_s .rate .im{
+	background: url(../img/ranking/rank10.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+/*ブログランキングw160用ここから*/
+#slider_s .blog_rafi {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_rafi .im{
+	background: url(../img/ranking/rank1.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .blog_rase {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_rase .im{
+	background: url(../img/ranking/rank2.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .blog_rath {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_rath .im{
+	background: url(../img/ranking/rank3.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+
+#slider_s .blog_rafo {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_rafo .im{
+	background: url(../img/ranking/rank4.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .blog_rafv {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_rafv .im{
+	background: url(../img/ranking/rank5.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .blog_rasi {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_rasi .im{
+	background: url(../img/ranking/rank6.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .blog_rasv {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_rasv .im{
+	background: url(../img/ranking/rank7.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .blog_raei {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_raei .im{
+	background: url(../img/ranking/rank8.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .blog_rani {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_rani .im{
+	background: url(../img/ranking/rank9.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+
+#slider_s .blog_rate {
+	width: 130px;
+	height: 31px;
+	margin: -8px 0 0 0;
+}
+
+#slider_s .blog_rate .im{
+	background: url(../img/ranking/rank10.png) no-repeat;
+	float: left;
+	width: 30px;
+	height: 20px;
+	position: relative;
+	top: 10px;
+	left: 3px;
+}
+/*ブログランキングw160用ここまで*/
+
+/* みんなの経済指標ブログパーツ */
+#container5 .econo_ny{
+/*	overflow-y: scroll;    スクロール表示 */
+	position: relative;
+	top: 20px;
+	left: 11px;
+	width: 171px;
+	height: 255px;
+}
+
+#container5 .econo_box{
+	clear: both;
+	display: block;
+	width: 170px;
+	height: 20px;
+	border-bottom: 1px solid #EEE;
+	padding: 0 0 2px 0;
+	margin: 0 0 0 5px;
+}
+
+#container5 .econo_box_day{
+	clear: both;
+	width: 170px;
+	height: 21px;
+	background: #aaaaaa;
+}
+
+#container5 .econo_date{
+	float: left;
+	padding: 3px 0 0 4px;
+	margin: 0 0 0 5px;
+	width: 82px;
+	height: 18px;
+	font-weight: bold;
+	background: #dddddd;
+}
+
+#container5 .econo_dayofweek{
+	float: left;
+	padding: 3px 0 0 0;
+	width: 79px;
+	height: 18px;
+	font-weight: bold;
+	background: #dddddd;
+}
+
+#container5 .econo_date_time{
+	float: left;
+	margin: 3px 0 0 0;
+	height: 16px;
+	width: 37px;
+}
+
+#container5 .econo_country{
+	float: left;
+	width: 25px;
+	height: 17px;
+}
+
+#container5 .econo_name{
+	float: left;
+	margin: 3px 0 0 0;
+	width: 108px;
+	height: 17px;
+	white-space: nowrap;
+}
+
+#container5 a{
+	display: block;
+	width: 180px;
+	height: 20px;
+}
+#container5 a:hover{
+	display: block;
+	width: 170px;
+	height: 20px;
+    background-color:#ccccff;
+}
+
+/*#container5 .more_eco{ もっとみる用白背景
+	position: relative;
+	top: 137px;
+	left: 123px;
+	width: 53px;
+	height: 15px;
+	background-color: white;
+}*/
+
+/* みんなの経済指標_スクロールバー ここから */
+#container5 #scrollbar1{/* スクロールバー */
+	position: relative;
+	top: 18px;
+	left: 14px;
+	width: 171px;
+	height: 276px;
+}
+#container5 #scrollbar1 .viewport{
+	position: relative;
+	left: -8px;
+	width: 169px;
+	height: 301px;
+	overflow: hidden;
+}
+
+#container5 #scrollbar1 .overview{
+	list-style: none;
+	position: relative;
+	left: 0;
+	top: 0;
+	padding: 0;
+	margin: 0;
+}
+
+#container5 #scrollbar1 .scrollbar{/* スクロールバー背景_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-track-y.png) no-repeat 0 0;
+	position: absolute;
+	background-position: 0 0;
+	float: right;
+	width: 8px;
+	left: 163px;
+}
+
+#container5 #scrollbar1 .track{/* スクロールバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-trackend-y.png) no-repeat 0 100%;
+	height: 100%;
+	width: 8px;
+	position: relative;
+	padding: 0 1px;
+}
+
+#container5 #scrollbar1 .thumb{/* スクロールバーバー本体_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 100%;
+	height: 20px;
+	width: 18px;
+	cursor: pointer;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	left: -6px;
+}
+
+#container5 #scrollbar1 .thumb .end{/* スクロールバーバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 0;
+	overflow: hidden;
+	height: 5px;
+	width: 17px;
+}
+/*
+#container5 #scrollbar1 .disable{
+	display: none;
+}*/
+
+
+#container5-2 .econo_ny{
+/*	overflow-y: scroll;    スクロール表示 */
+	position: relative;
+	top: 20px;
+	left: 11px;
+	width: 171px;
+	height: 255px;
+}
+
+#container5-2 .econo_box{
+	clear: both;
+	display: block;
+	width: 170px;
+	height: 20px;
+	border-bottom: 1px solid #EEE;
+	padding: 0 0 2px 0;
+	margin: 0 0 0 5px;
+}
+
+#container5-2 .econo_box_day{
+	clear: both;
+	width: 270px;
+	height: 21px;
+	background: #aaaaaa;
+}
+
+#container5-2 .econo_date{
+	float: left;
+	padding: 3px 0 0 4px;
+	margin: 0 0 0 5px;
+	width: 82px;
+	height: 18px;
+	font-weight: bold;
+	background: #dddddd;
+}
+
+#container5-2 .econo_dayofweek{
+	float: left;
+	padding: 3px 0 0 0;
+	width: 179px;
+	height: 18px;
+	font-weight: bold;
+	background: #dddddd;
+}
+
+#container5-2 .econo_date_time{
+	float: left;
+	margin: 3px 0 0 0;
+	height: 16px;
+	width: 37px;
+}
+
+#container5-2 .econo_country{
+	float: left;
+	width: 25px;
+	height: 17px;
+}
+
+#container5-2 .econo_name{
+	float: left;
+	margin: 3px 0 0 0;
+	width: 108px;
+	height: 17px;
+	white-space: nowrap;
+}
+
+#container5-2 a{
+	display: block;
+	width: 280px;
+	height: 20px;
+}
+#container5-2 a:hover{
+	display: block;
+	width: 270px;
+	height: 20px;
+    background-color:#ccccff;
+}
+
+
+#container5-2 #scrollbar1{/* スクロールバー */
+	position: relative;
+	top: 18px;
+	left: 14px;
+	width: 271px;
+	height: 276px;
+}
+#container5-2 #scrollbar1 .viewport{
+	position: relative;
+	left: -8px;
+	width: 269px;
+	height: 301px;
+	overflow: hidden;
+}
+
+#container5-2 #scrollbar1 .overview{
+	list-style: none;
+	position: relative;
+	left: 0;
+	top: 0;
+	padding: 0;
+	margin: 0;
+}
+
+#container5-2 #scrollbar1 .scrollbar{/* スクロールバー背景_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-track-y.png) no-repeat 0 0;
+	position: absolute;
+	background-position: 0 0;
+	float: right;
+	width: 8px;
+	left: 263px;
+}
+
+#container5-2 #scrollbar1 .track{/* スクロールバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-trackend-y.png) no-repeat 0 100%;
+	height: 100%;
+	width: 8px;
+	position: relative;
+	padding: 0 1px;
+}
+
+#container5-2 #scrollbar1 .thumb{/* スクロールバーバー本体_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 100%;
+	height: 20px;
+	width: 18px;
+	cursor: pointer;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	left: -6px;
+}
+
+#container5-2 #scrollbar1 .thumb .end{/* スクロールバーバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 0;
+	overflow: hidden;
+	height: 5px;
+	width: 17px;
+}
+
+
+/* みんなの経済指標_スクロールバー ここまで */
+
+/* みんなのMT4_スクロールバー ここから */
+#container2 #scrollbar1{/* スクロールバー */
+	position: relative;
+	top: 0px;
+	left: 14px;
+	width: 171px;
+	height: 225px;
+	margin: 0 0 20px 0;
+}
+#container2 #scrollbar1 .viewport{
+	position: relative;
+	left: -8px;
+	width: 169px;
+	height: 225px;
+	overflow: hidden;
+}
+
+#container2 #scrollbar1 .viewport_short{
+	width: 132px;
+}
+
+#container2 #scrollbar1 .overview{
+	list-style: none;
+	position: relative;
+	left: 0;
+	top: 0;
+	padding: 0;
+	margin: 0;
+}
+
+#container2 #scrollbar1 .scrollbar{/* スクロールバー背景_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-track-y.png) no-repeat 0 0;
+	position: absolute;
+	background-position: 0 0;
+	float: right;
+	width: 8px;
+	left: 163px;
+}
+
+#container2 #scrollbar1 .track{/* スクロールバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-trackend-y.png) no-repeat 0 100%;
+	height: 100%;
+	width: 8px;
+	position: relative;
+	padding: 0 1px;
+}
+
+#container2 #scrollbar1 .thumb{/* スクロールバーバー本体_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 100%;
+	height: 20px;
+	width: 18px;
+	cursor: pointer;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	left: -6px;
+}
+
+#container2 #scrollbar1 .thumb .end{/* スクロールバーバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 0;
+	overflow: hidden;
+	height: 5px;
+	width: 17px;
+}
+/*
+#container2 #scrollbar1 .disable{
+	display: none;
+}*/
+/* みんなのMT4_スクロールバー ここまで */
+
+
+/* シストレ・売上ランキング_スクロールバー ここから */
+#container2_0 #scrollbar1{/* スクロールバー */
+	position: relative;
+	top: 0px;
+	left: 14px;
+	width: 171px;
+	height: 225px;
+	margin: 0 0 20px 0;
+}
+#container2_0 #scrollbar1 .viewport{
+	position: relative;
+	left: -8px;
+	width: 160px;
+	height: 225px;
+	overflow: hidden;
+}
+
+#container2_0 #scrollbar1 .viewport_short{
+	width: 132px;
+}
+
+#container2_0 #scrollbar1 .overview{
+	list-style: none;
+	position: relative;
+	left: 0;
+	top: 0;
+	padding: 0;
+	margin: 0;
+}
+
+#container2_0 #scrollbar1 .scrollbar{/* スクロールバー背景_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-track-y.png) no-repeat 0 0;
+	position: absolute;
+	background-position: 0 0;
+	float: right;
+	width: 8px;
+	left: 153px;
+}
+
+#container2_0 #scrollbar1 .track{/* スクロールバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-trackend-y.png) no-repeat 0 100%;
+	height: 100%;
+	width: 8px;
+	position: relative;
+	padding: 0 1px;
+}
+
+#container2_0 #scrollbar1 .thumb{/* スクロールバーバー本体_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 100%;
+	height: 20px;
+	width: 18px;
+	cursor: pointer;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	left: -6px;
+}
+
+#container2_0 #scrollbar1 .thumb .end{/* スクロールバーバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 0;
+	overflow: hidden;
+	height: 5px;
+	width: 17px;
+}
+/*
+#container2_0 #scrollbar1 .disable{
+	display: none;
+}*/
+/* シストレ・売上ランキング_スクロールバー ここまで */
+
+
+/* シストレ・収益率ランキング_スクロールバー ここから */
+#container2_1 #scrollbar1{/* スクロールバー */
+	position: relative;
+	top: 0px;
+	left: 14px;
+	width: 171px;
+	height: 225px;
+	margin: 0 0 20px 0;
+}
+#container2_1 #scrollbar1 .viewport{
+	position: relative;
+	left: -8px;
+	width: 157px;
+	height: 225px;
+	overflow: hidden;
+}
+
+#container2_1 #scrollbar1 .viewport_short{
+	width: 132px;
+}
+
+#container2_1 #scrollbar1 .overview{
+	list-style: none;
+	position: relative;
+	left: 0;
+	top: 0;
+	padding: 0;
+	margin: 0;
+}
+
+#container2_1 #scrollbar1 .scrollbar{/* スクロールバー背景_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-track-y.png) no-repeat 0 0;
+	position: absolute;
+	background-position: 0 0;
+	float: right;
+	width: 8px;
+	left: 153px;
+}
+
+#container2_1 #scrollbar1 .track{/* スクロールバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-trackend-y.png) no-repeat 0 100%;
+	height: 100%;
+	width: 8px;
+	position: relative;
+	padding: 0 1px;
+}
+
+#container2_1 #scrollbar1 .thumb{/* スクロールバーバー本体_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 100%;
+	height: 20px;
+	width: 18px;
+	cursor: pointer;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	left: -6px;
+}
+
+#container2_1 #scrollbar1 .thumb .end{/* スクロールバーバー終端_画像 */
+	background: transparent url(../img/blog/bg-scrollbar-thumb-y.png) no-repeat 50% 0;
+	overflow: hidden;
+	height: 5px;
+	width: 17px;
+}
+/*
+#container2_1 #scrollbar1 .disable{
+	display: none;
+}*/
+/* シストレ・収益率ランキング_スクロールバー ここまで */
+
+
+.noSelect{
+	user-select: none;
+	-o-user-select: none;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+}
+
+
+/*↓ここから下add20150417*/
+#b_part_width{
+	border-radius: 4px;
+	/*position: relative;*/
+	overflow: hidden;
+}
+
+
+/*add20150507*/
+#b_part_h_fxon{
+	font-weight: bold;
+	padding: 2px 2px;
+	text-align: center;
+}
+
+#b_part_h_r_title{
+	font-weight: bold;
+	padding: 2px 2px;
+	text-align: center;
+}
+
+
+/*add20150507*/
+
+#b_part_width_title{
+	font-weight: bold;
+	padding: 2px 8px;
+}
+
+
+.frame{
+	/*margin: 0 0 15px 0;*/
+	overflow: hidden;
+}
+
+/*縦スクロール*/
+#mycarousel .list{
+	overflow: hidden;
+	display: block;
+	/*margin: 5px;元の文*/
+	margin: 0;
+	padding: 8px 0;
+	text-align: center;
+	float: left;
+}
+
+
+#mycarousel .box0{
+	text-align: center;
+	margin: 3px auto 0 auto;
+	font-weight: bold;
+}
+
+#mycarousel .box1{
+	width: 58px;
+	height: 58px;
+	display: block;
+	/*margin: 0 0 0 18px;元の文0421*/
+	margin: 0 auto;
+
+}
+
+#mycarousel .box1 a{
+	width: 58px;
+	height: 58px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#mycarousel .box1 img{
+	max-width: 57px;
+	max-height: 57px;
+	border: 1px solid #cccccc;
+}
+
+
+#mycarousel .box1 .sale_pic_front{
+	width: 45px;
+	height: 50px;
+	display: block;
+	text-indent: -999em;
+	background: url(../include/img/common/main/sale_ribbon.png) no-repeat;
+	position: relative;
+	top: -60px;
+	left: 14px;
+}
+
+
+#mycarousel .box2{
+	text-align: center;
+	/*margin:0 auto;元の文0422*/
+	margin:4px 0 auto 0;
+}
+
+#mycarousel .box3{
+	text-align: center;
+	margin: 3px auto 0 auto;
+	font-weight: bold;
+	color: #ff2244;
+}
+
+#mycarousel .box3 s{
+	color: #000000;
+}
+
+/*縦スクロールここまで*/
+
+
+/*横スクロール*/
+
+#mycarousel_1 .list_w{
+	width: 94px;
+	overflow: hidden;
+	display: block;
+	margin: 5px;
+	float: left;
+}
+
+
+/*add20150611*/
+#mycarousel_1 .devp{
+	padding: 7px;
+}
+/*add20150611ここまで*/
+
+
+#mycarousel_1 .box0{
+	text-align: center;
+	margin: 3px auto 0 auto;
+	font-weight: bold;
+}
+
+#mycarousel_1 .box1{
+	width: 58px;
+	height: 58px;
+	display: block;
+	/*margin: 0 0 0 18px;元の文0422*/
+	margin: 0 auto;
+}
+
+#mycarousel_1.box1 a{
+	width: 58px;
+	height: 58px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#mycarousel_1 .box1 img{
+	max-width: 57px;
+	max-height: 57px;
+	border: 1px solid #cccccc;
+}
+
+
+#mycarousel_1 .box1 .sale_pic_front{
+	width: 45px;
+	height: 50px;
+	display: block;
+	text-indent: -999em;
+	/*background: url(../include/img/common/main/sale_ribbon.png) no-repeat;元の文0430*/
+	background: url(../img/blog/sale_ribbon.png) no-repeat;
+	position: relative;
+	top: -60px;
+	left: 14px;
+}
+
+
+#mycarousel_1 .box2{
+	text-align: center;
+	margin: 3px auto 0 auto;
+}
+
+#mycarousel_1 .box3{
+	text-align: center;
+	margin: 3px auto 0 auto;
+	font-weight: bold;
+	color: #ff2244;
+}
+
+#mycarousel_1 .box3 s{
+	color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
