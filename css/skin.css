@@ -1,4 +1,3 @@
-
 .jcarousel-skin-tango .jcarousel-next-horizontal {
     position: absolute;
     top: 43px;
@@ -6,10 +5,8 @@
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: url(../img/blog/controls.png) no-repeat -43px -32px;
-   /* background: url(/fx/include/img/common/main/controls.png) no-repeat -43px -32px;/*ローカルテスト用*/
+    background: url(/img/controls.png) no-repeat -43px -32px;
 }
-
 
 .jcarousel-skin-tango .jcarousel-prev-horizontal {
     position: absolute;
@@ -18,11 +15,8 @@
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(../img/blog/controls.png) no-repeat 0 -32px;
-   /* background: transparent url(/fx/include/img/common/main/controls.png) no-repeat 0 -32px;/*ローカルテスト用*/
-
+    background: transparent url(/img/controls.png) no-repeat 0 -32px;
 }
-
 
 .jcarousel-skin-tango .jcarousel-next-vertical {
    	position: absolute;
@@ -34,17 +28,13 @@
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(../img/blog/controls_h2.png) no-repeat  0 -33px;
-
-
+    background: transparent url(/img/controls_h2.png) no-repeat  0 -33px;
 }
-
 
 .jcarousel-skin-tango .jcarousel-prev-vertical {
 
     position: absolute;
     margin: 0 auto;
-    /*top: 0;元の文0501*/
     top: 1px;
   	left: 0;
   	right: 0;
@@ -52,19 +42,5 @@
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(../img/blog/controls_h2.png) no-repeat  0 0;
-
-
-
-
+    background: transparent url(/img/controls_h2.png) no-repeat  0 0;
 }
-
-
-
-
-
-
-
-
-
-
